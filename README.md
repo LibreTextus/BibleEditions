@@ -2,7 +2,9 @@
 
 Collection of free Bibleversions
 
-## Sprachordner
+## Sturcture
+
+Every language has its own directory:
 
 - German (deu)
 - English (eng)
